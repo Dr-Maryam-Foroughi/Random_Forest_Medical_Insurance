@@ -2,11 +2,11 @@
 
 Random Forest model for predicting medical insurance charges using Python.
 
-# 🏥 Medical Insurance Cost Prediction using Random Forest
+# Medical Insurance Cost Prediction using Random Forest
 
 This project develops a Random Forest regression model to predict medical insurance charges based on demographic and lifestyle factors.
 
-## 📊 Dataset
+## Dataset
 
 The dataset contains information such as:
 
@@ -18,7 +18,7 @@ The dataset contains information such as:
 - Region
 - Medical insurance charges (target variable)
 
-## 🔧 Project Workflow
+## Project Workflow
 
 - Data exploration
 - Data preprocessing
@@ -29,14 +29,14 @@ The dataset contains information such as:
 - Model evaluation
 - Feature importance analysis
 
-## 🛠️ Technologies
+## Technologies
 
 - Language: Python
 - Data Handling: Pandas, NumPy
 - Visualization: Matplotlib, Seaborn
 - Machine Learning: Scikit-learn (Random Forest)
 
-## 📈 Results
+## Results
 
 ### Final Random Forest Test Results
 
